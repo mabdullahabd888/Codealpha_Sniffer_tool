@@ -1,8 +1,7 @@
-# Codealpha_Sniffer_tool
+# Python_Sniffer_tool
 
 A lightweight Python-based network packet sniffer developed for educational and ethical hacking purposes. This tool captures and analyzes network traffic using powerful libraries like scapy and socket.
 
-Built as part of an internship project under CodeAlpha.
 
 📌 Features
 
@@ -24,7 +23,7 @@ pip install scapy
 
 🚀 How to Use:
 # Clone the repository
-git clone git@github.com:mabdullahabd888/Codealpha_Sniffer_tool.git
+git clone git@github.com:mabdullahabd888/Python_Sniffer_tool.git
 
 # Navigate into the project
 cd Codealpha_Sniffer_tool
